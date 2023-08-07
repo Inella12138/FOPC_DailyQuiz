@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Daily_Quiz.Day_3_Quiz</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Day_2_Quiz.cs" />
+    <Compile Include="Day_3_Quiz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
