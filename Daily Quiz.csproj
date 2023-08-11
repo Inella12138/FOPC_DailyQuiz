@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Daily_Quiz.Day_5_Quiz</StartupObject>
+    <StartupObject>Daily_Quiz.Day_6_Quiz.cipher</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,8 @@
     <Compile Include="Day_3_Quiz.cs" />
     <Compile Include="Day_4_Quiz.cs" />
     <Compile Include="Day_5_Quiz.cs" />
+    <Compile Include="Day_6_Quiz\cipher.cs" />
+    <Compile Include="Day_6_Quiz\TextCalculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
